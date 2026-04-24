@@ -47,18 +47,6 @@ Hi! I'm **Harshith**, a passionate developer committed to building scalable and 
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshith27kk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/harshith27kk)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshith@example.com)
-
-</div>
-
----
-
 ## 💡 Fun Facts
 
 - 🎮 Gaming enthusiast
