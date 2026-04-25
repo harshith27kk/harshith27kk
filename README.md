@@ -37,10 +37,6 @@ Hi! I'm **Harshith**, a passionate developer committed to building scalable and 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshith27kk&show_icons=true&theme=dark)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshith27kk&layout=compact&theme=dark)
 
 </div>
